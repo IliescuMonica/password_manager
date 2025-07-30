@@ -1,6 +1,6 @@
 # 🔐 Password Generator (Tkinter App)
 
-A simple and secure **password generator** built with Python and Tkinter, as part of a 100 Days of Code challenge.  
+A simple and secure **password generator** built with Python and Tkinter, as part of a 100 Days of Code course.  
 The app creates strong, random passwords and copies them automatically to your clipboard for quick use.
 
 ## ✨ Features
