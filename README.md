@@ -15,7 +15,6 @@ The app creates strong, random passwords and copies them automatically to your c
 
   ## 📷 Screenshot
 
-> *(Add a screenshot named `screenshot.png` in your repo and uncomment the line below)*
 
 <!-- ![App Screenshot](screenshot.png) -->
 
