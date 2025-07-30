@@ -15,8 +15,7 @@ The app creates strong, random passwords and copies them automatically to your c
 
   ## 📷 Screenshot
 
-
-<-- (screenshot.png) -->
+![App Screenshot](screenshot.png)
 
 ## 🧠 What I Learned
 
